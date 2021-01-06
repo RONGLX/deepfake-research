@@ -24,6 +24,26 @@ DFDC
 DeeperForensics-1.0
 
 
+## Tools
+[FaceSwap](https://github.com/MarekKowalski/FaceSwap/)
+
+[Deepfakes](https://github.com/deepfakes/faceswap)
+
+[Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)
+
+[DeepfaceLab](https://github.com/iperov/DeepFaceLab)
+
+[DFaker](https://github.com/dfaker/df)
+
+[DeepFake-tf](https://github.com/StromWine/DeepFake-tf)
+
+[Faceswap-Deepfake-Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
+
+Zao
+
+FakeAPP
+
+Faceapp
 
 ## papers:
 ### survey
